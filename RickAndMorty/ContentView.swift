@@ -1,6 +1,5 @@
 //
 //  ContentView.swift
-//  КшслФтвЬщкен
 //
 //  Created by Owi Lover on 11/23/25.
 //

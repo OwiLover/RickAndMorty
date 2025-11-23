@@ -1,6 +1,5 @@
 //
-//  ____________App.swift
-//  КшслФтвЬщкен
+//  RickAndMortyApp.swift
 //
 //  Created by Owi Lover on 11/23/25.
 //
@@ -8,7 +7,7 @@
 import SwiftUI
 
 @main
-struct ____________App: App {
+struct RickAndMortyApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

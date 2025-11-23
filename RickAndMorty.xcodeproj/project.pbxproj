@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		2A3831582ED3373A005286E6 /* КшслФтвЬщкен.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "КшслФтвЬщкен.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2A3831582ED3373A005286E6 /* RickAndMorty.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RickAndMorty.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		2A38315A2ED3373A005286E6 /* КшслФтвЬщкен */ = {
+		2A38315A2ED3373A005286E6 /* RickAndMorty */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "КшслФтвЬщкен";
+			path = RickAndMorty;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		2A38314F2ED3373A005286E6 = {
 			isa = PBXGroup;
 			children = (
-				2A38315A2ED3373A005286E6 /* КшслФтвЬщкен */,
+				2A38315A2ED3373A005286E6 /* RickAndMorty */,
 				2A3831592ED3373A005286E6 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		2A3831592ED3373A005286E6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2A3831582ED3373A005286E6 /* КшслФтвЬщкен.app */,
+				2A3831582ED3373A005286E6 /* RickAndMorty.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		2A3831572ED3373A005286E6 /* КшслФтвЬщкен */ = {
+		2A3831572ED3373A005286E6 /* RickAndMorty */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2A3831632ED3373C005286E6 /* Build configuration list for PBXNativeTarget "КшслФтвЬщкен" */;
+			buildConfigurationList = 2A3831632ED3373C005286E6 /* Build configuration list for PBXNativeTarget "RickAndMorty" */;
 			buildPhases = (
 				2A3831542ED3373A005286E6 /* Sources */,
 				2A3831552ED3373A005286E6 /* Frameworks */,
@@ -61,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				2A38315A2ED3373A005286E6 /* КшслФтвЬщкен */,
+				2A38315A2ED3373A005286E6 /* RickAndMorty */,
 			);
-			name = "КшслФтвЬщкен";
+			name = RickAndMorty;
 			packageProductDependencies = (
 			);
 			productName = "КшслФтвЬщкен";
-			productReference = 2A3831582ED3373A005286E6 /* КшслФтвЬщкен.app */;
+			productReference = 2A3831582ED3373A005286E6 /* RickAndMorty.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 2A3831532ED3373A005286E6 /* Build configuration list for PBXProject "КшслФтвЬщкен" */;
+			buildConfigurationList = 2A3831532ED3373A005286E6 /* Build configuration list for PBXProject "RickAndMorty" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				2A3831572ED3373A005286E6 /* КшслФтвЬщкен */,
+				2A3831572ED3373A005286E6 /* RickAndMorty */,
 			);
 		};
 /* End PBXProject section */
@@ -309,7 +309,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2A3831532ED3373A005286E6 /* Build configuration list for PBXProject "КшслФтвЬщкен" */ = {
+		2A3831532ED3373A005286E6 /* Build configuration list for PBXProject "RickAndMorty" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2A3831612ED3373C005286E6 /* Debug */,
@@ -318,7 +318,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2A3831632ED3373C005286E6 /* Build configuration list for PBXNativeTarget "КшслФтвЬщкен" */ = {
+		2A3831632ED3373C005286E6 /* Build configuration list for PBXNativeTarget "RickAndMorty" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2A3831642ED3373C005286E6 /* Debug */,
